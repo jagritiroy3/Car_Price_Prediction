@@ -100,7 +100,7 @@ Car-Price-Prediction/
 ```
 
 📷 Project Preview
-
+![Car Price Prediction](Car Price Prediction.png)
 
 ## 🚀 Applications
 
