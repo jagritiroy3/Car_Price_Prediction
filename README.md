@@ -125,4 +125,6 @@ This project demonstrates the practical application of Machine Learning, Data An
 
 The project serves as a strong portfolio project showcasing skills in machine learning, data analytics, model deployment, and software development.
 
+GitHub: https://github.com/jagritiroy3
+
 ⭐ If you found this project useful, consider giving it a star on GitHub.
